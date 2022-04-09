@@ -3,7 +3,8 @@ data/
 /data/
 .data/
 ./data/
-
+main/__init__.py
+main/migrations/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
